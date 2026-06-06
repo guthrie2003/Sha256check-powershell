@@ -13,10 +13,8 @@ Expected output:
 
   Success: SHA256 Match! File is verified.
 
-  Mismatch: SHA256 Mismatch! 
-  
-            Expected: $ExpectedHash 
-            
+  Mismatch: SHA256 Mismatch! \n
+            Expected: $ExpectedHash \n             
             Actual:   $actualHash
   
   Missing file: File not found: $FilePath
